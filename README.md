@@ -16,5 +16,5 @@ User required:
 
 It should look something like this, note that the directory on yours must be browsed: <br>  
 <p>   JAVA_HOME   C:\Program Files\Java\jdk-15.0.1          
-<p>   Path        C:\Program Files\Java\jdk-15.0.1\bin
+      Path        C:\Program Files\Java\jdk-15.0.1\bin   </p>
 
