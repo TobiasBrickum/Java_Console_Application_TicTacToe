@@ -149,10 +149,17 @@ public class HelperText
 		String space = " ";
 		String tab = "\t";
 		
-		System.out.println("Momentanes Spielfeld:");
-		System.out.println(place + playereField.get(0) + space + playereField.get(1) + space + playereField.get(2));
-		System.out.println(place + playereField.get(3) + space + playereField.get(4) + space + playereField.get(5));
-		System.out.println(place + playereField.get(6) + space + playereField.get(7) + space + playereField.get(8));
+		System.out.println("Die Zahlen 7 bis 1 repäsentiert das Spielfeld\n");
+		System.out.println(tab + "7 8 9");
+		System.out.println(tab + "4 5 6");
+		System.out.println(tab + "1 2 3");
+		
+		// wtf why won't work tab in console ???
+		System.out.println("\nMomentanes Spielfeld:");
+		String a = tab + place + playereField.get(0) + space + playereField.get(1) + space + playereField.get(2);
+		System.out.println(tab + a);
+		System.out.println(tab + place + playereField.get(3) + space + playereField.get(4) + space + playereField.get(5));
+		System.out.println(tab + place + playereField.get(6) + space + playereField.get(7) + space + playereField.get(8));
 		System.out.println(place);
 	}
 	
