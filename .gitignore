@@ -1,4 +1,16 @@
-# ignore all
-*
+# ignore folder
+**settings/
+*Tic_Tac_To
+*Realease
 
-!c/*
+# ignore .endings
+*.class
+*.project
+*.classpath
+*.txt
+*.rar
+*.jar
+*.exe
+*.bat
+*.cmd
+
