@@ -14,7 +14,7 @@ User required:
    Then enter your Java installation folder in the directory. 
 -  The Path variable should already be created. Edit this and add your Java installation directory with the "bin" folder. 
 
-It should look something like this, note that the directory on yours must be browsed.  
-JAVA_HOME   C:\Program Files\Java\jdk-15.0.1          <br>
-Path        C:\Program Files\Java\jdk-15.0.1\bin
+It should look something like this, note that the directory on yours must be browsed: <br>  
+<p>   JAVA_HOME   C:\Program Files\Java\jdk-15.0.1          
+<p>   Path        C:\Program Files\Java\jdk-15.0.1\bin
 
