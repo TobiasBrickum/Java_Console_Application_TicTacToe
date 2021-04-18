@@ -4,6 +4,10 @@ import java.util.Scanner;
 
 public class HelperUserInput 
 {
+	/**
+	 * Return user console input as a String.
+	 * @return String from console input
+	 */
 	public static String getUserInputString()
 	{
 		try
@@ -19,7 +23,11 @@ public class HelperUserInput
 		}
 	}
 	
-	// return Console input	as integer
+	/**
+	 * Return user console input as a integer.
+	 * @param String
+	 * @return integer from console input
+	 */
 	public static int getUserInputInteger(String content)
 	{
 		try

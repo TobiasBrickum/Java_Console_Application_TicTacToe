@@ -36,6 +36,12 @@ public enum HelperEnum
 	}
 	
 	// new with KI game mode
+	/**
+	 * Returns an enum which depends on the parameter
+	 *  
+	 * @param String content is the user input answer
+	 * @return an enum like yes, no, other or enumNull if content was wrong
+	 */
 	public static HelperEnum createEnumFromAskUserQuestionString(String content)
 	{
 		switch(content)
@@ -59,6 +65,12 @@ public enum HelperEnum
 		}
 	}
 	
+	/**
+	 * Get the player market (X, O; ?) depends the enum parameter.
+	 * 
+	 * @param contentString is a enum
+	 * @return a player market String. (X, O, ?) or an error message if parameter was wrong
+	 */
 	public static String createStringFromEnum(HelperEnum contentString)
 	{
 		switch(contentString)
@@ -83,6 +95,11 @@ public enum HelperEnum
 		
 	}
 	
+	/**
+	 * 
+	 * @param fieldMark
+	 * @return
+	 */
 	public static int createIndexFromEnum(HelperEnum fieldMark)
 	{
 		switch(fieldMark)

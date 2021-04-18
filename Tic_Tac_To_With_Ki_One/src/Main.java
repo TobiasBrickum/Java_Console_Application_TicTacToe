@@ -1,5 +1,4 @@
 
-
 import java.util.Arrays;
 
 import java.util.HashMap;
@@ -8,12 +7,11 @@ import java.util.Map;
 import java.util.Random;
 import java.util.regex.Pattern;
 
-
 public class Main
 {
-
 	public static HelperEnum gameMode;
 	public static int kiSleeptime = 800;
+	
 	
 	public static void main(String[] args) 
 	{

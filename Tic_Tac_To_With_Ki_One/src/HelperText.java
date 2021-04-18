@@ -1,6 +1,5 @@
 
 
-
 import java.util.HashMap;
 import java.util.LinkedList;
 
@@ -39,6 +38,8 @@ public class HelperText
 	public static final String questionRepeatUserInput = "Eingabe wiederholen (y) oder Aplication verlassen (n).";
 	// to do
 	public static final String questionGameMode = "Gegen zwei Personen spielen (1)/(y), einzeln gegen KI Einfach spielen (2)/(n), oder jetzt schon Application verlassen (3)/(x) ?";
+	
+	
 	
 	//private attributes
 	private static LinkedList<String> playerField = new LinkedList<String>();
@@ -100,6 +101,12 @@ public class HelperText
 	
 	
 	// METHODS
+	/**
+	 * View empty rows in console.
+	 * 
+	 * @param clear == true; 	view x empty rows in console. The number x is a private attribute
+	 * @param clear == false;	view only one empty row in console 
+	 */
 	public static void clearConsole(boolean clear)
 	{	
 		if(clear == true)
@@ -114,8 +121,6 @@ public class HelperText
 			System.out.println("\n");
 		}
 	}
-	
-
 
 	// initial player field
 	public static void initialPlayerFieldMarker()
@@ -125,7 +130,9 @@ public class HelperText
 		setUsedFieldMark(clearFieldMark);
 	}
 	
-	// initial player field
+	/**
+	 *  Initial player field with "?"
+	 */
 	public static void initialPlayerField()
 	{
 		// old one	LinkedList<String> playereField =  HelperText.getPlayerField();
@@ -141,7 +148,9 @@ public class HelperText
 	}
 	
 	
-	// view player field
+	/**
+	 *  View player field in console
+	 */
 	public static void viewPlayerField()
 	{
 		LinkedList<String> playereField =  HelperText.getPlayerField();
