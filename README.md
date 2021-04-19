@@ -1,7 +1,7 @@
 # Tic Tac Toe
 
-### This game is a Java console application. 
-### If you will start the game, use the "start.bat" file.
+This game is a Java console application. 
+If you will start the game, use the "start.bat" file.
 
 <hr/>
 
