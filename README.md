@@ -20,4 +20,4 @@ If you will start the game, use the "start.bat" file.
 
 It should look something like this, note that the directory on yours must be browsed.  
 JAVA_HOME  <&nbsp> C:\Program Files\Java\jdk-15.0.1       
-Path       &nbsp &nbsp &nbsp C:\Program Files\Java\jdk-15.0.1\bin   
+Path       &nbsp;&nbsp;&nbsp; C:\Program Files\Java\jdk-15.0.1\bin   
