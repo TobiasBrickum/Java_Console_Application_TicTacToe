@@ -19,5 +19,5 @@ If you will start the game, use the "start.bat" file.
 -  The Path variable should already be created. Edit this and add your Java installation directory with the "bin" folder. 
 
 It should look something like this, note that the directory on yours must be browsed.  
-JAVA_HOME  <p> C:\Program Files\Java\jdk-15.0.1       </p>
-Path       <p> C:\Program Files\Java\jdk-15.0.1\bin   </p>
+JAVA_HOME  <&nbsp> C:\Program Files\Java\jdk-15.0.1       
+Path       &nbsp &nbsp &nbsp C:\Program Files\Java\jdk-15.0.1\bin   
