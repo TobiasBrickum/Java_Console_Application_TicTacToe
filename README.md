@@ -3,6 +3,8 @@
 ### This game is a Java console application. 
 ### If you will start the game, use the "start.bat" file.
 
+
+
 #### Application create with:
 1) IDE Eclipse
 2) Java JDK 15.01
