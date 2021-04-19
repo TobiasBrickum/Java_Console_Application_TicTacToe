@@ -2,13 +2,11 @@
 
 ### This game is a Java console application. 
 ### If you will start the game, use the "start.bat" file.
-
 <hr/>
-
 #### Application create with:
 1) IDE Eclipse
 2) Java JDK 15.01
-
+<hr/>
 #### User required:
 1) Java JRE / JDK 14 or higher
 2) Laws of Java environment variables  
