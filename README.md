@@ -3,7 +3,7 @@
 ### This game is a Java console application. 
 ### If you will start the game, use the "start.bat" file.
 
-
+<hr/>
 
 #### Application create with:
 1) IDE Eclipse
