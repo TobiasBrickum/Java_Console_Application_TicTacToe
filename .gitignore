@@ -1,6 +1,7 @@
 # ignore folder
 **settings/
-*Tic_Tac_To
+*.idea
+*.out
 *Realease
 
 # ignore .endings
@@ -13,4 +14,5 @@
 *.exe
 *.bat
 *.cmd
+*.iml
 
