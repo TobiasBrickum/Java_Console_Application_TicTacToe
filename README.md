@@ -6,14 +6,14 @@ If you will start the game, use the "start.bat" file.
 <hr/>
 
 #### Application create with:
-1) IDE Eclipse
+1) IDE Eclipse / IntelliJ
 2) Java JDK 15.01
 
 <hr/>
 
 #### User required:
 1) Java JRE / JDK 14 or higher
-2) Laws of Java environment variables or alternate update the "Start___Tic_Tac_To_With_Ki_One.bat"  
+2) Laws of Java environment variables or alternate update the "Start___Tic_Tac_To_With_Ki_One.bat" file.  
 -  To do this, go to the environment variables and create a new variable called "Java_Home" 
    Then enter your Java installation folder in the directory. 
 -  The Path variable should already be created. Edit this and add your Java installation directory with the "bin" folder. 
