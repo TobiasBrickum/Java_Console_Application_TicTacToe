@@ -30,7 +30,7 @@ Path       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb
 
  Switch to your JDK / JRE directory and copy the path. Edit the .bat file to following.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	""C:\Program Files\Java\javafx-sdk-16\bin\java.exe -jar Tic_Tac_To_With_Ki_One.jar clearSize220 thinkSize500"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	""C:\Program Files\Java\javafx-sdk-16\bin\java.exe" -jar Tic_Tac_To_With_Ki_One.jar clearSize220 thinkSize500"
 
 This was an example path specification and you may have to adapt it to your directory. 
  
