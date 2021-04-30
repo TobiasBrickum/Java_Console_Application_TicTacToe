@@ -1,7 +1,7 @@
 # ignore folder
 **settings/
 *.idea
-*.out
+*out
 *Realease
 
 # ignore .endings
